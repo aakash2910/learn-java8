@@ -1,4 +1,4 @@
-package learn.java8._01_lambda;
+package _01_lambda;
 
 @FunctionalInterface
 interface Addable

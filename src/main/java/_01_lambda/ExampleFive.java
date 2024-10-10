@@ -1,4 +1,4 @@
-package learn.java8._01_lambda;
+package _01_lambda;
 
 
 // Thread example using lambda instead of anonymous inner class
